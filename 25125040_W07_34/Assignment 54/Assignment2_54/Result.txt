@@ -1,0 +1,3 @@
+Course: CS160 - Introduction to Computer Science
+Status: Close
+Students list:

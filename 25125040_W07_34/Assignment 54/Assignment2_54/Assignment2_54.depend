@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1764106324 source:d:\fit@hcmus 2025-2029\cs160\25125040_w07_34\assignment 54\assignment2_54\date.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"Date.h"
+
+1764106344 d:\fit@hcmus 2025-2029\cs160\25125040_w07_34\assignment 54\assignment2_54\date.h
+
+1764345971 source:d:\fit@hcmus 2025-2029\cs160\25125040_w07_34\assignment 54\assignment2_54\main.cpp
+	<iostream>
+	<fstream>
+	"Course.h"
+
+1764344688 d:\fit@hcmus 2025-2029\cs160\25125040_w07_34\assignment 54\assignment2_54\course.h
+	"Student.h"
+
+1764344205 d:\fit@hcmus 2025-2029\cs160\25125040_w07_34\assignment 54\assignment2_54\student.h
+	<string>
+	"Date.h"
+
+1764344538 source:d:\fit@hcmus 2025-2029\cs160\25125040_w07_34\assignment 54\assignment2_54\student.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	"Student.h"
+
